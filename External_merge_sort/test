@@ -1,0 +1,6 @@
+rm *.db
+rm build/*
+make sort
+./build/sort_main
+rm *.db
+
